@@ -91,6 +91,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Kushilab Deva Sarma - [@kushilab_07](https://twitter.com/kushilab_07) - kushilabdevasarma@gmail.com
 
-Project Link: [https://github.com/yourusername/tic-tac-toe](https://github.com/yourusername/tic-tac-toe) 
+Project Link: [https://github.com/Kushilab07/Tic-Tac-Toe-Game](https://github.com/Kushilab07/Tic-Tac-Toe-Game) 
